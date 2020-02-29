@@ -1,0 +1,212 @@
+лют. 20, 2020 9:09:02 ДП sample.Main start
+INFO: Main class starts to work
+лют. 20, 2020 9:09:03 ДП javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 10.0.2-internal
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: Controller class starts to work
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: Background color is initialized
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: First value option list is initialized
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: NULL is selected for first value 
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: Second value option list is initialized
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: NULL is selected for second value 
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: Function option list initialized
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: Contradiction is selected as a function
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: Action for button is set
+лют. 20, 2020 9:09:04 ДП sample.Controller initialize
+INFO: Controller class initialization finished
+лют. 20, 2020 9:09:04 ДП sample.Main start
+INFO: Resources have been loaded
+лют. 20, 2020 9:09:04 ДП sample.Main start
+INFO: Title is set
+лют. 20, 2020 9:09:04 ДП sample.Main start
+INFO: Scene is set
+лют. 20, 2020 9:09:05 ДП sample.Main start
+INFO: Window appears
+лют. 20, 2020 9:09:09 ДП sample.Controller$2 changed
+INFO: First value changed from NULL to TRUE
+лют. 20, 2020 9:09:14 ДП sample.Controller$4 changed
+INFO: Function value changed from ⊥ (contradiction) to ∧ (conjunction)
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Setting action for button starts to work
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Animation is set
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Animation played
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: First boolean value is created
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: First boolean value equals NULL
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Second boolean value is created
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Second boolean value equals NULL
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Setting first boolean value
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: First boolean value changed to TRUE
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Setting second boolean value
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Second boolean value changed to NULL
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Calculation class is created
+лют. 20, 2020 9:09:18 ДП sample.BooleanCalculation <init>
+INFO: BooleanCalculation class is created with two params: TRUE, NULL
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Displaying result
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Conjunction is calculated, result is displayed
+лют. 20, 2020 9:09:18 ДП sample.BooleanCalculation conjunction
+INFO: Conjunction calculation in proccess
+лют. 20, 2020 9:09:18 ДП sample.BooleanCalculation getBool1
+INFO: Getter for first value is working
+лют. 20, 2020 9:09:18 ДП sample.BooleanCalculation getBool1
+INFO: Getter returned TRUE
+лют. 20, 2020 9:09:18 ДП sample.BooleanCalculation getBool2
+INFO: Getter for second value is working
+лют. 20, 2020 9:09:18 ДП sample.BooleanCalculation getBool2
+INFO: Getter returned NULL
+лют. 20, 2020 9:09:18 ДП sample.BooleanCalculation conjunction
+INFO: Conjunction calculation in proccess
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Calculation result (conjunction) : First is TRUE, Second is NULL, Result is NULL
+лют. 20, 2020 9:09:18 ДП sample.Controller$1 handle
+INFO: Action event is over
+лют. 20, 2020 9:09:28 ДП sample.Main main
+INFO: Program ended successfully
+лют. 20, 2020 9:11:21 ДП sample.Main start
+INFO: Main class starts to work
+лют. 20, 2020 9:11:21 ДП javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 10.0.2-internal
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: Controller class starts to work
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: Background color is initialized
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: First value option list is initialized
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: NULL is selected for first value 
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: Second value option list is initialized
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: NULL is selected for second value 
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: Function option list initialized
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: Contradiction is selected as a function
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: Action for button is set
+лют. 20, 2020 9:11:22 ДП sample.Controller initialize
+INFO: Controller class initialization finished
+лют. 20, 2020 9:11:22 ДП sample.Main start
+INFO: Resources have been loaded
+лют. 20, 2020 9:11:22 ДП sample.Main start
+INFO: Title is set
+лют. 20, 2020 9:11:22 ДП sample.Main start
+INFO: Scene is set
+лют. 20, 2020 9:11:23 ДП sample.Main start
+INFO: Window appears
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Setting action for button starts to work
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Animation is set
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Animation played
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: First boolean value is created
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: First boolean value equals NULL
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Second boolean value is created
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Second boolean value equals NULL
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Setting first boolean value
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: First boolean value changed to NULL
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Setting second boolean value
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Second boolean value changed to NULL
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Calculation class is created
+лют. 20, 2020 9:11:26 ДП sample.BooleanCalculation <init>
+INFO: BooleanCalculation class is created with two params: NULL, NULL
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Displaying result
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Contradiction is calculated, result is displayed
+лют. 20, 2020 9:11:26 ДП sample.BooleanCalculation contradiction
+INFO: Contradiction calculation in proccess
+лют. 20, 2020 9:11:26 ДП sample.BooleanCalculation getBool1
+INFO: Getter for first value is working
+лют. 20, 2020 9:11:26 ДП sample.BooleanCalculation getBool1
+INFO: Getter returned NULL
+лют. 20, 2020 9:11:26 ДП sample.BooleanCalculation getBool2
+INFO: Getter for second value is working
+лют. 20, 2020 9:11:26 ДП sample.BooleanCalculation getBool2
+INFO: Getter returned NULL
+лют. 20, 2020 9:11:26 ДП sample.BooleanCalculation contradiction
+INFO: Contradiction calculation in proccess
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Calculation result (contradiction) : First is NULL, Second is NULL, Result is FALSE
+лют. 20, 2020 9:11:26 ДП sample.Controller$1 handle
+INFO: Action event is over
+лют. 20, 2020 9:11:30 ДП sample.Controller$4 changed
+INFO: Function value changed from ⊥ (contradiction) to ∧ (conjunction)
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Setting action for button starts to work
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Animation is set
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Animation played
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: First boolean value is created
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: First boolean value equals NULL
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Second boolean value is created
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Second boolean value equals NULL
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Setting first boolean value
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: First boolean value changed to NULL
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Setting second boolean value
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Second boolean value changed to NULL
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Calculation class is created
+лют. 20, 2020 9:11:30 ДП sample.BooleanCalculation <init>
+INFO: BooleanCalculation class is created with two params: NULL, NULL
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Displaying result
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Conjunction is calculated, result is displayed
+лют. 20, 2020 9:11:30 ДП sample.BooleanCalculation conjunction
+INFO: Conjunction calculation in proccess
+лют. 20, 2020 9:11:30 ДП sample.BooleanCalculation getBool1
+INFO: Getter for first value is working
+лют. 20, 2020 9:11:30 ДП sample.BooleanCalculation getBool1
+INFO: Getter returned NULL
+лют. 20, 2020 9:11:30 ДП sample.BooleanCalculation getBool2
+INFO: Getter for second value is working
+лют. 20, 2020 9:11:30 ДП sample.BooleanCalculation getBool2
+INFO: Getter returned NULL
+лют. 20, 2020 9:11:30 ДП sample.BooleanCalculation conjunction
+INFO: Conjunction calculation in proccess
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Calculation result (conjunction) : First is NULL, Second is NULL, Result is NULL
+лют. 20, 2020 9:11:30 ДП sample.Controller$1 handle
+INFO: Action event is over
+лют. 20, 2020 9:12:28 ДП sample.Main main
+INFO: Program ended successfully
